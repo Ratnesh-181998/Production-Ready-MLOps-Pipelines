@@ -1,3 +1,13 @@
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=PRODUCTION%20READY%20MLOPS%20PIPELINES&fontSize=44&fontColor=ffffff&animation=fadeIn" />
+</div>
+
+
+---
+
 # Production-Ready-MLOps-Pipelines
 Production-grade MLOps pipelines with real-world ML and NLP projects.Covers MLflow, DVC, Docker,Airflow,GitHub Actions, AWS SageMaker, HuggingFace, and monitoring with Grafana and PostgreSQL. Model development CI/CD pipelines,experiment tracking,data versioning,workflow orchestration,cloud deployment,and monitoring using modern MLOps tools and AWS.
 
