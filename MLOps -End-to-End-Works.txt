@@ -66,3 +66,86 @@ Who this Work is for:
 •	Beginners with basic ML knowledge aiming to learn end-to-end deployment.
 •	IT professionals eager to understand MLOps tools and practices for real-world projects.
 
+----
+
+Here’s a clear way to think about popular MLOps frameworks used in production 👇
+
+𝐌𝐋𝐟𝐥𝐨𝐰
+MLflow is mainly used to track experiments and manage models as they move from research to production.
+
+It helps with:
+ - tracking experiments and results
+ - versioning models
+ - keeping a clear history of changes
+ - moving models safely into production
+
+Used when:
+You want visibility and control over how models are trained and evolved.
+
+𝐊𝐮𝐛𝐞𝐟𝐥𝐨𝐰
+Kubeflow is used to run machine learning workloads on Kubernetes.
+
+It helps with:
+ - training and running ML at scale
+ - building end-to-end pipelines
+ - managing cloud-native ML workflows
+
+Used when:
+Your team already uses Kubernetes and needs ML to scale with it.
+
+𝐀𝐢𝐫𝐟𝐥𝐨𝐰
+Airflow is used to schedule and orchestrate workflows.
+
+It helps with:
+ - running pipelines on a schedule
+ - managing task dependencies
+ - controlling complex data and ML workflows
+
+Important:
+Airflow does not train models. It controls when and how steps run
+
+𝐃𝐕𝐂
+DVC is used to version data alongside code.
+
+It helps with:
+ - tracking large datasets
+ - reproducing experiments
+ - keeping data and code in sync
+Used when:
+Your ML projects depend heavily on changing data.
+
+𝐁𝐞𝐧𝐭𝐨𝐌𝐋
+BentoML is used to serve models as production-ready APIs.
+
+It helps with:
+ - packaging models
+ - deploying them as services
+ - scaling inference reliably
+Used when:
+You need fast, stable model inference in production.
+
+𝐌𝐞𝐭𝐚𝐟𝐥𝐨𝐰
+Metaflow is used to build simple and readable ML workflows.
+
+It helps with:
+structuring ML pipelines
+versioning experiments
+running workflows locally or in the cloud
+
+Used when:
+You want developer-friendly ML pipelines without heavy infrastructure setup.
+
+There is no single “best” MLOps tool.
+
+MLOps is a system problem. Real production setups usually combine multiple tools:
+ - one for experiment tracking
+ - one for orchestration
+ - one for data or model versioning
+ - one for serving
+
+Example production stack:
+ - MLflow → track experiments
+ - Airflow → schedule retraining
+ - DVC → version datasets
+ - BentoML → serve predictions
+
