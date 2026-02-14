@@ -46,6 +46,8 @@
 
 <img width="595" height="727" alt="image" src="https://github.com/user-attachments/assets/616453ee-00a0-475c-b84c-b1c035e9a918" />
 
+<img width="917" height="660" alt="image" src="https://github.com/user-attachments/assets/e169b659-c67a-474d-98db-3a60f38b9c97" />
+
 ---
 
 # Production-Ready-MLOps-Pipelines
