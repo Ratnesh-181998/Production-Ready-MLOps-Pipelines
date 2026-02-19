@@ -61,7 +61,7 @@
 
 --
 
-# [Building an End-to-End AI/ML Pipeline with AWS Glue & Spark ]()
+# [Building an End-to-End AI/ML Pipeline with AWS Glue & Spark ](https://github.com/Ratnesh-181998/Production-Ready-MLOps-Pipelines/blob/main/Building%20an%20End-to-End%20AIML%20Pipeline%20with%20AWS%20Glue%20%26%20Spark%20.pdf)
 
 <img width="858" height="537" alt="image" src="https://github.com/user-attachments/assets/11573614-e5d1-458c-a2d2-cca9e11fd536" />
 
