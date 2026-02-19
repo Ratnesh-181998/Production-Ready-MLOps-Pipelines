@@ -52,6 +52,11 @@
 
 <img width="917" height="660" alt="image" src="https://github.com/user-attachments/assets/e169b659-c67a-474d-98db-3a60f38b9c97" />
 
+# Your 95% Accurate ML Model Will Fail in Production
+## [Production ML = 10% modeling + 90% engineering](https://github.com/paiml/practical-mlops-book)
+<img width="592" height="493" alt="image" src="https://github.com/user-attachments/assets/81ced82d-5ae8-4207-832c-0ea146d75d15" />
+<img width="417" height="751" alt="image" src="https://github.com/user-attachments/assets/e76d40b8-a48c-449b-80c7-2e970b114be7" />
+
 ---
 
 # Production-Ready-MLOps-Pipelines
