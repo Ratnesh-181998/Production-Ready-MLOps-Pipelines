@@ -67,7 +67,9 @@
 
 ---
 
-# 
+#  MLOps vs LLMOps vs AgentOps
+
+<img width="587" height="589" alt="image" src="https://github.com/user-attachments/assets/bf8c4128-5714-48b6-9167-115bd1df75d9" />
 
 <img width="474" height="658" alt="image" src="https://github.com/user-attachments/assets/1f2e34ba-4b59-456d-9768-920445f9a8ce" />
 
