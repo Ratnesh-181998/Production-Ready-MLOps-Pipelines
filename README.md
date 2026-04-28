@@ -73,6 +73,12 @@
 
 <img width="474" height="658" alt="image" src="https://github.com/user-attachments/assets/1f2e34ba-4b59-456d-9768-920445f9a8ce" />
 
+---
+
+# [Practical MLOps]()
+
+<img width="638" height="802" alt="image" src="https://github.com/user-attachments/assets/6cc06bc7-4baa-457c-855f-4db7a9bc1ec5" />
+<img width="680" height="665" alt="image" src="https://github.com/user-attachments/assets/9cfc9bfc-ea6d-40bd-9a51-eb054126c604" />
 
 ---
 
