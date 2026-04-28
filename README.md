@@ -75,7 +75,7 @@
 
 ---
 
-# [Practical MLOps]()
+# [Practical MLOps](https://github.com/Ratnesh-181998/Production-Ready-MLOps-Pipelines/blob/main/Practical%20MLOps%20Operationalizing%20Machine%20Learning%20Models.pdf)
 
 <img width="638" height="802" alt="image" src="https://github.com/user-attachments/assets/6cc06bc7-4baa-457c-855f-4db7a9bc1ec5" />
 <img width="680" height="665" alt="image" src="https://github.com/user-attachments/assets/9cfc9bfc-ea6d-40bd-9a51-eb054126c604" />
