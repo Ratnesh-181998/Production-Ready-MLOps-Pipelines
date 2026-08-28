@@ -59,6 +59,14 @@
 
 ---
 
+# 𝗗𝗼𝗰𝗸𝗲𝗿 𝘃𝘀 𝗞𝘂𝗯𝗲𝗿𝗻𝗲𝘁𝗲𝘀" 𝗶𝘀 𝘁𝗵𝗲 𝘄𝗿𝗼𝗻𝗴 𝗾𝘂𝗲𝘀𝘁𝗶𝗼𝗻
+
+<img width="538" height="916" alt="image" src="https://github.com/user-attachments/assets/b11d0814-dad8-40b6-bae6-1cd869cec3c5" />
+
+<img width="814" height="1096" alt="image" src="https://github.com/user-attachments/assets/7837aa9f-a2fe-4eb5-9c33-f491746420b8" />
+
+---
+
 # Your 95% Accurate ML Model Will Fail in Production
 ## [Production ML = 10% modeling + 90% engineering](https://github.com/paiml/practical-mlops-book)
 <img width="592" height="493" alt="image" src="https://github.com/user-attachments/assets/81ced82d-5ae8-4207-832c-0ea146d75d15" />
