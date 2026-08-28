@@ -65,6 +65,8 @@
 
 <img width="814" height="1096" alt="image" src="https://github.com/user-attachments/assets/7837aa9f-a2fe-4eb5-9c33-f491746420b8" />
 
+<img width="494" height="584" alt="image" src="https://github.com/user-attachments/assets/a1eb9de2-deb1-4a15-b6d6-279c393e16e2" />
+
 ---
 
 # Your 95% Accurate ML Model Will Fail in Production
